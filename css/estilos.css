@@ -1,0 +1,36 @@
+body {
+	background: #FCFCFC;
+	min-height: 100vh;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+h2 {
+	margin: 0;
+}
+
+p {
+	margin: 0;
+}
+
+header {
+	background: #FFFF00;
+	/*height: 50px;*/
+}
+
+section {
+	background: #A0A0A0;
+	/*min-eight: 450px;*/
+	flex: 1;
+}
+
+footer {
+	background: #625F53;
+	height: 100px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+}
